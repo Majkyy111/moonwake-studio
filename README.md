@@ -10,7 +10,7 @@ This repository only hosts the installers. The source code is not public.
 ## Download
 
 Get the latest `Moonwake-Studio-Setup-<version>.exe` from
-[Releases](https://github.com/Majkyy111/moonwake-studio/releases/latest).
+[Releases](https://github.com/Majkyy111/moonwake-studio/releases/).
 
 ## Install
 
